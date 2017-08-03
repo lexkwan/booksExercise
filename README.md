@@ -1,2 +1,2 @@
 # booksExercise
-Exercise for book <The Go Programming Language>
+Exercise for book "The Go Programming Language"
